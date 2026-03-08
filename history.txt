@@ -1,0 +1,283 @@
+    1  -help
+    2  cd home
+    3  mkdir user 1
+    4  mkdir task 1
+    5  mkdir task1
+    6  cd task1
+    7  ls -l
+    8  scp ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nadia_ozbey/readme.txt ."C:/Users/ICH/ITCareerhub- учеба/Linux/19.01.26/
+    9  ssh-keygen
+   10  cat.ssh/id_rsa.pub
+   11  cat.ssh/id_rsa.pub
+   12  cat .ssh/id_ed25519
+   13  cat .ssh/id_rsa.pub
+   14  cat .ssh/id_rsa.pub
+   15  cat .ssh/id_rsa.pub
+   16  cat .ssh/id_ed25519.pub
+   17  ssh ec2-user@linux.itcareerhub.de
+   18  ssh ec2-user@linux.itcareerhub.de
+   19  df -h 
+   20  free
+   21  free -h
+   22  ssh ec2-user@linux.itcareerhub.de
+   23  [200~ssh ec2-user@linux.itcareerhub.de~
+   24  [200~ssh ec2-user@linux.itcareerhub.de
+   25  [200~ssh ec2-user@linux.itcareerhub.de~
+   26  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+   27  top
+   28  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+   29  cd /home/
+   30  pwd
+   31  cd /c/
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  cd ~
+   34  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+   35  .ssh/id_rsa.pub
+   36  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+   37  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   38   ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+   39  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   40  [200~
+   41  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   42  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   43  sed -i '3,$d' /opt/281125-wdm/nadia_ozbey/.process-management
+   44  sed -i '3,$d' /opt/281125-wdm/nadia_ozbey/.process-management.txt
+   45  scp ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nadia_ozbey/.process-management.txt .
+   46  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   47  touch script.sh
+   48  vi script.sh
+   49  vi script.sh
+   50  chmod +x script.sh
+   51  ls -l script.sh
+   52  vi script.sh
+   53  cat ./script.sh
+   54  ./script.sh
+   55  touch file.txt /tmp/
+   56  ls -la file.txt
+   57  df -h | head -3 >> file.txt
+   58  cat file.txt
+   59  df -h
+   60  chmod g+wx
+   61  chmod g+mx /tmp/file.txt
+   62  cat /tmp/file.txt
+   63  touch file.txt /tmp/
+   64  ls -la /tmp/file.txt
+   65  pwd
+   66  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   67  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   68  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   69  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   70  scp ec2-user@linux.itcareerhub.de:/tmp/nadia_ozbey/file.txt
+   71  scp ec2-user@linux.itcareerhub.de:/tmp/nadia_ozbey/file.txt .
+   72  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+   73  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   74  mkdir Linux
+   75  cd Linux
+   76  ls -la
+   77  git init
+   78  ls -la
+   79  echo "#Linux" >> README.md
+   80  ls -la
+   81  git status
+   82  git add README.md
+   83  git status
+   84  git commit-m "added file README.md"
+   85  git commit -m "added file README.md"
+   86  [200~git config --global user.email "nad.ozbey@gmail.com"
+   87  git config --global user.name "Nadia Ozbey"
+   88  git commit -m "added file README.dm"
+   89  git config --global user.email "nad.ozbey@gmail.com"
+   90  git config --global user.name "Nadia Ozbey"
+   91  git commit -m "added file README.dm"
+   92  git branch
+   93  git btanch -M main
+   94  git branch -M main
+   95  git push -u origin main
+   96  git remote -v
+   97  git remote add origin git@github.com:Nadia Ozbey/Linux.git
+   98  git push -u origin main
+   99  clear
+  100  git remote -v
+  101  git remote add origin git@github.com:NadiaOzbey/Linux.git
+  102  git remote -v
+  103  git push -u origin main
+  104  cat ~/.ssh/id_rsa.pub
+  105  ls ~/.ssh
+  106  cat id_ed25519.pub  
+  107  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  108  ls ~/ssh
+  109  ls ~/.ssh
+  110  cat ~/.ssh/id_ed25519.pub
+  111  touch YA.SMOG.log
+  112  ls
+  113  git status
+  114  git add .
+  115  mkdir js_intro
+  116  cd js_intro
+  117  git init
+  118  200~git remote add origin git@github.com:NadiaOzbey/git_intro.git~
+  119  git remote add origin git@github.com:NadiaOzbey/git_intro.git
+  120  mkdir git_intro
+  121  cd git_intro
+  122  git init
+  123  git add koala
+  124  git add koala.jpg
+  125  git commit -m "Added photo"
+  126  git branch -M main
+  127  git remote add origin git@github.com:NadiaOzbey/git_intro.git
+  128  git push -u origin main
+  129  200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+  130  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  131  200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+  132  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  133  mkdir -p test
+  134  cd test/
+  135  echo "# test" >> README.md
+  136  ls
+  137  cat README.md
+  138  git init
+  139  ls -la
+  140  git branch
+  141  git add README.md
+  142  git commit -m "added readme"
+  143  git log
+  144  git branch
+  145  git branch -m main
+  146  git branch
+  147  git remote -v
+  148  git remote add origin git@github.com:NadiaOzbey/test.git
+  149  git remote -v
+  150  git push -u origin main
+  151  git checkout -b gitignore
+  152  git branch
+  153  git log
+  154  vi .gitignore
+  155  git add .gitignore
+  156  git status
+  157  git commit -m "added .gitignore"
+  158  git commit -m "added .gitignore"
+  159  clear
+  160  git status
+  161  git log
+  162  git switch main
+  163  git log
+  164  git merge gitignore
+  165  git log
+  166  git branch -d gitignore
+  167  git push
+  168  history
+  169  clear
+  170  cat .gitignore
+  171  touch 1.bmp 2.txt test.log test2.log
+  172  ls -la
+  173  git status
+  174  git add 2.txt
+  175  git status
+  176  git commit -m "added 2.txt"
+  177  git push
+  178  git status
+  179  git add test2.log
+  180  git commit
+  181  git push
+  182  git log
+  183  git log --oneline
+  184  git log --oneline --graph
+  185  clear
+  186  git log --oneline --graph
+  187  git checkout c4e7306
+  188  git checkout -b bugfix
+  189  git log
+  190  cd 
+  191  git clone git@github.com:NadiaOzbey/lastcall.git
+  192  cd lastcall
+  193  git log
+  194  git checkout -b test
+  195  ls -la
+  196  touch nadia
+  197  echo "10.02.26"
+  198  echo "10.02.26" >> nadia
+  199  cat nadia
+  200  git status
+  201  git add nadia
+  202  git status
+  203  git push
+  204  git push --set-upstream origin test
+  205  git commit -m "added nadia"
+  206  git push
+  207  touch myfirstbashscript.sh
+  208  ls -al
+  209  chmod -x myfirstbashscript.sh
+  210  cd myfirstbashscript.sh
+  211  pwd
+  212  cd /c/Users/nadoz/myfirstbashscript.sh
+  213  vi myfirstbashscript.sh
+  214  ls -la /etc/passwd
+  215  ls: cannot access '/etc/passwd': No such file or directory
+  216  vi myfirstbashscript.sh
+  217  export_file myfirstbashscript.sh
+  218  mv myfirstbashscript.sh ~/OneDrive/Рабочий стол/ICH/Feb 26/14.02.26
+  219  mv myfirstbashscript.sh "~/OneDrive/Рабочий стол/ICH/Feb 26/14.02.26"
+  220  cp myfirstbashscript.sh "~/OneDrive/Рабочий стол/ICH/Feb 26/14.02.26"
+  221  cp myfirstbashscript.sh '/c/Users/nadoz/OneDrive/Рабочий стол/ICH'
+  222  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  223  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  224  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  225  ls -la /opt/281125-wdm/nadia_ozbey/dir_21.02.2026/
+  226  ls -la /opt/281125-wdm/nadia_ozbey/
+  227  ls -la /opt/281125-wdm/nadia_ozbey
+  228  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  229  vi task_NADIA.sh
+  230  cd /opt/281125-wdm/nadia_ozbey/
+  231  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  232  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  233  scp ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nadia_ozbey/history.txt .
+  234  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  235  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+  236  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  237  who
+  238  who | head 
+  239  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  240  mkdir git-branch
+  241  cd git-branch
+  242  git init
+  243  git checkout -b gitignore
+  244  nano .gitignore
+  245  git add .gitignore
+  246  git commit -m "added gitignore file"
+  247  git remote add origin https://github.com/NadiaOzbey/git-branch.git
+  248  git push -u origin gitignore
+  249  mkdir git-branch
+  250  rm -r git-branch
+  251  cd git-branch
+  252  git init
+  253  git checkout -b gitignore
+  254  nano .gitignore
+  255  git add .gitignore
+  256  git commit -m 'added gitignore file'
+  257  git remote add origin git@github.com:NadiaOzbey/git-branch.git
+  258  get push -u origin gitignore
+  259  git push -u origin gitignore
+  260  git checkout -b main
+  261  git commit --allow-empty -m "initial commit on main"
+  262  get push -u origin main
+  263  git push -u origin main
+  264  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  265  scp ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nadia_ozbey/permission_checker .
+  266  scp ec2-user@linux.itcareerhub.de:/opt/281125-wdm/nadia_ozbey/permission_checker.sh .
+  267  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  268  git clone https://github.com/NadiaOzbey/saramago
+  269  cd saramago
+  270  git branch
+  271  git checkout -b feature
+  272  echo "Hello" >> README.md
+  273  echo "this is crazy" >> .gitignore
+  274  git add README.md .gitignore
+  275  git commit -m 'added README, modified .gitignore'
+  276  git push origin feature
+  277  git commit --amend -m 'added README, modified .gitignore, amend'
+  278  git push origin feature --force
+  279  git checkout main
+  280  git pull
+  281  git merge feature
+  282  git push origin main
+  283  history > history.txt
